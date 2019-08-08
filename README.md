@@ -1,1 +1,1 @@
-# MariaDB_Backup
+# The repository is database backup files are stored.
